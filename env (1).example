@@ -1,0 +1,5 @@
+# URL of your deployed backend (no trailing slash), e.g. https://cake-order-backend.onrender.com
+VITE_API_URL=https://your-backend-url.onrender.com
+
+# Must match APP_TOKEN set on the backend
+VITE_APP_TOKEN=pick-a-random-string-here
